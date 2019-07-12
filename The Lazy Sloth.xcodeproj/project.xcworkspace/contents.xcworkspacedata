@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:The Lazy Sloth.xcodeproj">
+      location = "group:/Users/sebastienlarue/Desktop/The Lazy Sloth/The Lazy Sloth/ANUDI___.ttf">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
